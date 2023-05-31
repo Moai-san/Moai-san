@@ -11,12 +11,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Snake Animation
-      - uses: Sutil/snk@master
+      - uses: Platane/snk@v2
         id: snake-gif
         with:
           github_user_name: Moai-san
-          svg_out_path: dist/github-contribution-grid-snake2.svg
-          snake_color: 'blue'
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?color_snake=purple&color_dots=#575757,#bd3c65,#b3204e,#871b26,#5c040c
+            dist/ocean.svg?color_snake=purple&color_dots=rgba(191,214,246,0.2),#bd3c65,#b3204e,#871b26,#5c040c
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
