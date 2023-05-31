@@ -17,7 +17,7 @@
 </div>  
 <!--Spam-->
 <div align="center">
-  ![snake animation](https://github.com/Moai-san/Moai-san/blob/output/github-contribution-grid-snake2.svg)
+   ![Snake animation](https://github.com/Moai-san/Moai-san/blob/output/github-snake-dark.svg)
 </div>
   
   
