@@ -16,7 +16,9 @@
   <a href="https://discordapp.com/users/513203803353382953" target="_blank"><img src="https://img.shields.io/badge/-Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=black" target="_blank"></a> 
 </div>  
 <!--Spam-->
-![snake animation](https://github.com/Moai-san/Moai-san/blob/output/github-contribution-grid-snake2.svg)
+<div align="center">
+  ![snake animation](https://github.com/Moai-san/Moai-san/blob/output/github-contribution-grid-snake2.svg)
+</div>
   
   
 <!--
