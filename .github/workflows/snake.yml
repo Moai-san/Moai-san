@@ -12,7 +12,7 @@ jobs:
     steps:
       # Snake Animation
       #- uses: Platane/snk@v2
-      - uses: aelassas/snk@v2
+      - uses: aelassas/snk/svg-only@main
         id: snake-gif
         with:
           github_user_name: Moai-san
